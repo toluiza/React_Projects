@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 
 const App = () => {
   return (
-    <div>
+    <div className="ui container comments">
       <h1>Hello there!</h1>
     </div>
   );
